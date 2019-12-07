@@ -65,8 +65,8 @@ The final course grade will be computed as follows:
 |Tasks| Scores|
 |---| ---|
 |Attendance| 5 |
-|Homework (code + demo)| 55 |
-|Final Project (proposal+code+presentation)| 40 |
+|4 assignments (code + demo)| 55 |
+|1 project (proposal+code+presentation)| 40 |
 
 
 
