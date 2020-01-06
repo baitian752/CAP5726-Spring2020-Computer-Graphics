@@ -6,10 +6,6 @@ Xifeng Gao
 - Office: 251A Love Building
 - Office hours: Tuesday. 02:00pm~03:00pm
 - Homepage: https://gaoxifeng.github.io/
-### Teaching Assistant
-TBD
-- Office: TBD
-- Office hours: TBD
 
 ### Course Description
 Computer Graphics is the area of using computers to create and process all kinds of images, realisitc or sythntic. This course will cover the basic concepts and algorithms of computer graphics, ranging from mathematical concepts, such as 2D and 3D transformations, curves and surfaces for modeling, to the interaction of light with geometry to derive shading models, rendering algorithms such as ray tracing and rasterization, texture mapping, and key-frame based animation.
@@ -31,19 +27,18 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jan./30: [The Graphics Pipeline, Part 1]
 - Feb./04: [The Graphics Pipeline, Part 2] 
 - Feb./06: [The Graphics Pipeline, Part 3]
-- Assignment 2: [2D Rasterization (10 points)]
+- Assignment 2: [2D and 3D Rasterization (25 points)]
 - Feb./11: [The Graphics Pipeline, Part 4]
 - Feb./13: [Curves, Part 1]
 - Feb./18: [Curves, Part 2]
 - Feb./20: [Curves, Part 3]
-- [Assignment 3 (15 points)]
 - Feb./25: [Colloquium: Robust Meshing]
 - Feb./27: [Curves, Part 4]
 - Mar./03: [Surfaces] 
 - Mar./05: [Texture Mapping]
+- [Assignment 3 (15 points)]
 - Mar./10: [Texture Mapping]
 - Mar./12: [Spacial Data Structure]
-- [Assignment 4 (15 points)]
 - Mar./17: Spring Break
 - Mar./19: Spring Break
 - Mar./24: [Colloquim]
@@ -55,7 +50,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Apr./16 [Colloquim]
 - Apr./21: [Procedural Synthesis]
 - Apr./23: [Course Summary]
-- [Presentation of the finished independent project]
+- [Presentation of the independently finished project]
 ### Textbook
 - (Not required) Fundamentals of Computer Graphics, 4th Edition December 18, 2015 by A K Peters/CRC Press Textbook - 734 Pages - 541 Color ISBN 9781482229394
 
@@ -65,7 +60,7 @@ The final course grade will be computed as follows:
 |Tasks| Scores|
 |---| ---|
 |Attendance| 5 |
-|4 assignments (code + demo)| 55 |
+|3 assignments (code + demo)| 55 |
 |1 project (proposal+code+presentation)| 40 |
 
 
