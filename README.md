@@ -15,9 +15,9 @@ This course requires you having a good programming skill in C++ and a good knowl
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
-- Jan./07: [Introduction]
+- Jan./07: [Introduction](https://drive.google.com/file/d/1otCYXM6ebVa9h53V1rjyfsNS9C20ZUqc/view?usp=sharing)
 - [Independent project throughout the entire semester]
-- Jan./09: [Colors and Images]
+- Jan./09: [Colors and Images](https://drive.google.com/file/d/1Nf1qnmEG3LzrgInYvM0m8PQHWm5sKtOh/view?usp=sharing)
 - Jan./14: [Ray Tracing]
 - Jan./16: [C++]
 - Jan./21:[Basic Linear Algebra]
