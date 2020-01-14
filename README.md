@@ -18,10 +18,10 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jan./07: [Introduction](https://drive.google.com/file/d/1otCYXM6ebVa9h53V1rjyfsNS9C20ZUqc/view?usp=sharing)
 - [Independent project throughout the entire semester]
 - Jan./09: [Colors and Images](https://drive.google.com/file/d/1Nf1qnmEG3LzrgInYvM0m8PQHWm5sKtOh/view?usp=sharing)
-- Jan./14: [Ray Tracing]
+- Jan./14: [Ray Tracing](https://drive.google.com/file/d/18Tj6-0GYItWKMV3-9f8HrD1K4vcJHSyZ/view?usp=sharing)
+- Assignment 1: [Ray Tracing (15 points)]
 - Jan./16: [C++]
 - Jan./21:[Basic Linear Algebra]
-- Assignment 1: [Ray Tracing (15 points)]
 - Jan./23: [View Transformations]
 - Jan./28: [Rasterization]
 - Jan./30: [The Graphics Pipeline, Part 1]
