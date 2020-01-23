@@ -22,12 +22,12 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 1: [Ray Tracing (15 points)]
 - Jan./16: [C++](https://drive.google.com/file/d/1xb9qxtywXF3pEvLJCWrb8BNuIuN-M9_X/view?usp=sharing)
 - Jan./21:[Basic Linear Algebra](https://drive.google.com/file/d/14EKAvArieHQTHNllUo1kKq3PQAN6UxKT/view?usp=sharing)
-- Jan./23: [View Transformations]
+- Jan./23: [View Transformations](https://drive.google.com/file/d/1-KhIgAVr4c3n7Pmmim5Xc8cgjh7v2ze8/view?usp=sharing)
 - Jan./28: [Rasterization]
 - Jan./30: [The Graphics Pipeline, Part 1]
 - Feb./04: [The Graphics Pipeline, Part 2] 
-- Feb./06: [The Graphics Pipeline, Part 3]
 - Assignment 2: [2D and 3D Rasterization (25 points)]
+- Feb./06: [The Graphics Pipeline, Part 3]
 - Feb./11: [The Graphics Pipeline, Part 4]
 - Feb./13: [Curves, Part 1]
 - Feb./18: [Curves, Part 2]
