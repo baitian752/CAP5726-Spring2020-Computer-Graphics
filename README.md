@@ -25,7 +25,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jan./23: [View Transformations](https://drive.google.com/file/d/1-KhIgAVr4c3n7Pmmim5Xc8cgjh7v2ze8/view?usp=sharing)
 - Jan./28: [View Transformations]
 - Jan./30: [Rasterization](https://drive.google.com/file/d/1ZAVyaYltKB4AXOZJubB-mfndWRUFJBNe/view?usp=sharing)
-- Feb./04: [The Graphics Pipeline, Part 1]
+- Feb./04: [The Graphics Pipeline, Part 1](https://drive.google.com/open?id=1D8um_3e2BknztKiUxFGPPK1MHIN0ONZy)
 - Assignment 2: [2D and 3D Rasterization (25 points)]
 - Feb./06: [The Graphics Pipeline, Part 2] 
 - Feb./11: [The Graphics Pipeline, Part 3]
