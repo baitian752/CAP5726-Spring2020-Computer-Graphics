@@ -27,18 +27,18 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jan./30: [Rasterization](https://drive.google.com/file/d/1ZAVyaYltKB4AXOZJubB-mfndWRUFJBNe/view?usp=sharing)
 - Feb./04: [The Graphics Pipeline, Part 1](https://drive.google.com/open?id=1D8um_3e2BknztKiUxFGPPK1MHIN0ONZy)
 - Assignment 2: [2D and 3D Rasterization (25 points)]
-- Feb./06: [The Graphics Pipeline, Part 2] 
+- Feb./06: [The Graphics Pipeline, Part 2](https://drive.google.com/open?id=1iMzxCJAgCfJhMmS4Bd7ceDNLN-jcHTgb)
 - Feb./11: [The Graphics Pipeline, Part 3]
-- Feb./13: [The Graphics Pipeline, Part 4]
-- Feb./18: [Curves, Part 1]
-- Feb./20: [Curves, Part 2]
-- Feb./25: [Curves, Part 3]
-- Feb./27: [Surfaces] 
-- Mar./03: [Mesh]
+- Feb./13: [Curves, Part 1]
+- Feb./18: [Curves, Part 2]
+- Feb./20: [Curves, Part 3]
+- Feb./25: [Surfaces] 
+- Feb./27: [Mesh]
+- Mar./03: [Spacial Data Structure]
 - Mar./05: [Laplacian]
 - [Assignment 3 (15 points)]
 - Mar./10: [Laplacian]
-- Mar./12: [Spacial Data Structure]
+- Mar./12: [Colloquium]
 - Mar./17: Spring Break
 - Mar./19: Spring Break
 - Mar./24: [Colloquium: Robust Meshing]
