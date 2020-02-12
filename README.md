@@ -1,4 +1,4 @@
-####  CAP5726-Spring2020-Computer-Graphics
+####  CAP4730/5726-Spring2020-Computer-Graphics
 ### Lectures
 - Tue/Th. 11:00am~12:15am, 103 Love Building
 ### Course Instructor
