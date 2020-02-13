@@ -54,6 +54,18 @@ The schedule is tentative and will be adjusted along the way, the course materia
 ### Textbook
 - (Not required) Fundamentals of Computer Graphics, 4th Edition December 18, 2015 by A K Peters/CRC Press Textbook - 734 Pages - 541 Color ISBN 9781482229394
 
+### Projects
+## Shape Analysis
+- Method: Variational Shape Approximation, 2004(http://www.geometry.caltech.edu/pubs/CAD04.pdf)
+## Mesh Processing
+- Method: Surface Simplification Using Quadric Error Metrics, 1997(https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)
+## Parameterization
+- Method: A Local/Global Approach to Mesh Parameterization, 2008(http://www.cs.harvard.edu/~sjg/papers/arap.pdf)
+### Animation
+- Method: As-Rigid-As-Possible Surface Modeling, 2007(https://igl.ethz.ch/projects/ARAP/arap_web.pdf)
+### Simulation
+- Method: Fast Simulation of Mass-Spring Systems, 2013(http://tiantianliu.cn/papers/liu13fast/liu13fast.html)
+
 ### Grading Policy
 The final course grade will be computed as follows:
 
