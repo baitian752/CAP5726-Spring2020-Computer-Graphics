@@ -29,7 +29,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 2: [2D and 3D Rasterization (25 points)]
 - Feb./06: [The Graphics Pipeline, Part 2](https://drive.google.com/open?id=1iMzxCJAgCfJhMmS4Bd7ceDNLN-jcHTgb)
 - Feb./11: [The Graphics Pipeline, Part 3](https://drive.google.com/open?id=1np5eJSNVn3iCsaFWU_HJjH3T5J_B-AsE)
-- Feb./13: [Curves, Part 1]
+- Feb./13: [Curves, Part 1](https://drive.google.com/open?id=19o4EUvV1zVsTfq9WbvdD0vROjgD2soiR)
 - Feb./18: [Curves, Part 2]
 - Feb./20: [Curves, Part 3]
 - Feb./25: [Surfaces] 
