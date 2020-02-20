@@ -30,7 +30,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Feb./06: [The Graphics Pipeline, Part 2](https://drive.google.com/open?id=1iMzxCJAgCfJhMmS4Bd7ceDNLN-jcHTgb)
 - Feb./11: [The Graphics Pipeline, Part 3](https://drive.google.com/open?id=1np5eJSNVn3iCsaFWU_HJjH3T5J_B-AsE)
 - Feb./13: [Curves, Part 1](https://drive.google.com/open?id=19o4EUvV1zVsTfq9WbvdD0vROjgD2soiR)
-- Feb./18: [Curves, Part 2]
+- Feb./18: [Curves, Part 2](https://drive.google.com/open?id=1F17r0JP6SZG6AD5-QuI8dt8Z4bAdM4kF)
 - Feb./20: [Curves, Part 3]
 - Feb./25: [Surfaces] 
 - Feb./27: [Mesh]
