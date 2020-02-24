@@ -75,7 +75,7 @@ The final course grade will be computed as follows:
 |3 assignments (code + demo)| 55 |
 |1 project (proposal+code+presentation)| 40 |
 
-##Graduates
+## Graduates
 |Final Grades| Scores|
 |---| ---|
 |A| >= 85 |
@@ -86,7 +86,7 @@ The final course grade will be computed as follows:
 |C| >= 60 |
 |D| < 60 |
 
-##Undergraduates
+## Undergraduates
 |Final Grades| Scores|
 |---| ---|
 |A| >= 80 |
