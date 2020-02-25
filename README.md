@@ -61,9 +61,9 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Method: Surface Simplification Using Quadric Error Metrics, 1997(https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)
 ## Parameterization
 - Method: A Local/Global Approach to Mesh Parameterization, 2008(http://www.cs.harvard.edu/~sjg/papers/arap.pdf)
-### Animation
+## Animation
 - Method: As-Rigid-As-Possible Surface Modeling, 2007(https://igl.ethz.ch/projects/ARAP/arap_web.pdf)
-### Simulation
+## Simulation
 - Method: Fast Simulation of Mass-Spring Systems, 2013(http://tiantianliu.cn/papers/liu13fast/liu13fast.html)
 
 ### Grading Policy
@@ -75,6 +75,7 @@ The final course grade will be computed as follows:
 |3 assignments (code + demo)| 55 |
 |1 project (proposal+code+presentation)| 40 |
 
+## Graduates
 |Final Grades| Scores|
 |---| ---|
 |A| >= 85 |
@@ -84,3 +85,14 @@ The final course grade will be computed as follows:
 |C+| >= 65 |
 |C| >= 60 |
 |D| < 60 |
+
+## Undergraduates
+|Final Grades| Scores|
+|---| ---|
+|A| >= 80 |
+|A-| >= 75 |
+|B+| >= 70 |
+|B| >= 65 |
+|C+| >= 60 |
+|C| >= 55 |
+|D| < 55 |
