@@ -34,7 +34,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Feb./20: [Curves, Part 3](https://drive.google.com/open?id=1sGY1cdJTsdav1hb8mGbx1aLFWAifb8q7)
 - Feb./25: [Surfaces](https://drive.google.com/open?id=1HnnVCLO0b9zLmsoHRMn1nhW5M4UjlBD8)
 - Feb./27: [Mesh]
-- Mar./03: [Spacial Data Structure]
+- Mar./03: [Mesh](https://drive.google.com/open?id=1PlGo5t-yn4AFYMrfJLDqQ5vV8VYyQka1)
 - Mar./05: [Laplacian]
 - [Assignment 3 (15 points)]
 - Mar./10: [Laplacian]
