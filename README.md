@@ -32,13 +32,13 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Feb./13: [Curves, Part 1](https://drive.google.com/open?id=19o4EUvV1zVsTfq9WbvdD0vROjgD2soiR)
 - Feb./18: [Curves, Part 2](https://drive.google.com/open?id=1F17r0JP6SZG6AD5-QuI8dt8Z4bAdM4kF)
 - Feb./20: [Curves, Part 3](https://drive.google.com/open?id=1sGY1cdJTsdav1hb8mGbx1aLFWAifb8q7)
-- Feb./25: [Surfaces](https://drive.google.com/open?id=1HnnVCLO0b9zLmsoHRMn1nhW5M4UjlBD8)
-- Feb./27: [Mesh]
+- Feb./25: [Curves, Part 4](https://drive.google.com/open?id=1sGY1cdJTsdav1hb8mGbx1aLFWAifb8q7)
+- Feb./27: [Surfaces](https://drive.google.com/open?id=1HnnVCLO0b9zLmsoHRMn1nhW5M4UjlBD8)
 - Mar./03: [Mesh](https://drive.google.com/open?id=1PlGo5t-yn4AFYMrfJLDqQ5vV8VYyQka1)
-- Mar./05: [Laplacian]
+- Mar./05: [Mesh](https://drive.google.com/open?id=1PlGo5t-yn4AFYMrfJLDqQ5vV8VYyQka1)
 - [Assignment 3 (15 points)]
-- Mar./10: [Laplacian]
-- Mar./12: [Colloquium]
+- Mar./10: [Laplacian](https://drive.google.com/open?id=1Ve33iEtV5v-3elCHHVhRj_9UiYcRV7K8)
+- Mar./12: [Laplacian]
 - Mar./17: Spring Break
 - Mar./19: Spring Break
 - Mar./24: [Colloquium: Robust Meshing]
