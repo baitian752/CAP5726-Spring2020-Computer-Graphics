@@ -38,7 +38,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Mar./05: [Mesh](https://drive.google.com/open?id=1PlGo5t-yn4AFYMrfJLDqQ5vV8VYyQka1)
 - [Assignment 3 (15 points)]
 - Mar./10: [Laplacian](https://drive.google.com/open?id=1Ve33iEtV5v-3elCHHVhRj_9UiYcRV7K8)
-- Mar./12: [Laplacian]
+- Mar./12: [Laplacian](https://drive.google.com/open?id=1bZvwM2PBzVuRoO_aMi12Qqd2qzuQpfts)
 - Mar./17: Spring Break
 - Mar./19: Spring Break
 - Mar./24: [Colloquium: Robust Meshing]
