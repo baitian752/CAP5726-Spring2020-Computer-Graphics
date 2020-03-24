@@ -57,14 +57,16 @@ The schedule is tentative and will be adjusted along the way, the course materia
 ### Projects
 ## Shape Analysis
 - Method: Variational Shape Approximation, 2004(http://www.geometry.caltech.edu/pubs/CAD04.pdf)
-## Mesh Processing
-- Method: Surface Simplification Using Quadric Error Metrics, 1997(https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)
 ## Parameterization
 - Method: A Local/Global Approach to Mesh Parameterization, 2008(http://www.cs.harvard.edu/~sjg/papers/arap.pdf)
-## Animation
-- Method: As-Rigid-As-Possible Surface Modeling, 2007(https://igl.ethz.ch/projects/ARAP/arap_web.pdf)
 ## Simulation
 - Method: Fast Simulation of Mass-Spring Systems, 2013(http://tiantianliu.cn/papers/liu13fast/liu13fast.html)
+
+## Mesh Processing
+- Method: Surface Simplification Using Quadric Error Metrics, 1997(https://www.cs.cmu.edu/~./garland/Papers/quadrics.pdf)
+## Animation
+- Method: As-Rigid-As-Possible Surface Modeling, 2007(https://igl.ethz.ch/projects/ARAP/arap_web.pdf)
+
 
 ### Grading Policy
 The final course grade will be computed as follows:
