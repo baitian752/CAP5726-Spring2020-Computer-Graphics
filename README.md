@@ -43,7 +43,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Mar./19: Spring Break
 - Mar./24: [Colloquium: Robust Meshing]
 - Mar./26: Spacial Data Structure: [Lecture](https://drive.google.com/open?id=1zyotZY2imHQO5pK9zLaiFh7PB4rK6UQO) [Video](https://drive.google.com/open?id=1T2F4IFxgbv5n6wiUeoIat4185CJEdleU)
-- Mar./31 [Spatial Deformations]
+- Mar./31 Spatial Deformations:[Video](https://drive.google.com/open?id=15BQTspsBOigXxjxv3EnhqP3qUQuExai4)
 - Apr./02 [Skeleton Deformations]
 - Apr./07: [Colloquium]
 - Apr./09 and Apr./14: [Texture Mapping]
