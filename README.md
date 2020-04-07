@@ -45,7 +45,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Mar./26: Spacial Data Structure: [Lecture](https://drive.google.com/open?id=1zyotZY2imHQO5pK9zLaiFh7PB4rK6UQO) [Video](https://drive.google.com/open?id=1T2F4IFxgbv5n6wiUeoIat4185CJEdleU)
 - Mar./31 Spacial Data Structure:[Video](https://drive.google.com/open?id=15BQTspsBOigXxjxv3EnhqP3qUQuExai4)
 - Apr./02 Spatial Deformations: [Lecture](https://drive.google.com/open?id=1_v2Q7RsktaH1Z9FcunzHuVVtZBv3Ypvl)[Video](https://drive.google.com/open?id=1A1MltpBs5PywVs88qCHBFcidw-JKZOJD)
-- Apr./07: [Skeleton Deformations]
+- Apr./07: Skeleton Deformations:[Lecture](https://drive.google.com/open?id=1rqPtKKQoxasGN0GqBMDoAGzZ61ZxTYdA)
 - Apr./09 and Apr./14: [Texture Mapping]
 - Apr./16 [Colloquim]
 - Apr./21: [Procedural Synthesis]
