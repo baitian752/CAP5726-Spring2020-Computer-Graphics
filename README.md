@@ -47,7 +47,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Apr./02 Spatial Deformations: [Lecture](https://drive.google.com/open?id=1_v2Q7RsktaH1Z9FcunzHuVVtZBv3Ypvl)[Video](https://drive.google.com/open?id=1A1MltpBs5PywVs88qCHBFcidw-JKZOJD)
 - Apr./07: Skeleton Deformations:[Lecture](https://drive.google.com/open?id=1rqPtKKQoxasGN0GqBMDoAGzZ61ZxTYdA)[Video](https://drive.google.com/open?id=1fdJVL0t0e05NVOKjA-83U9YYAsM2cVoi)
 - Apr./09: [Texture mapping](https://drive.google.com/open?id=1vz7UM8-QFuTosUGW40yoH_9FbZnm8ZcZ)
-- Apr./14: [Parameterization]
+- Apr./14: [Parameterization](https://drive.google.com/open?id=1o0HUXn6INFLNzwIZbwcNAev-5mUjrJL1)
 - Apr./16 [Colloquim]
 - Apr./21: [Procedural Synthesis]
 - Apr./23: [Course Summary]
