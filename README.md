@@ -50,7 +50,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Apr./14: [Parameterization](https://drive.google.com/open?id=1o0HUXn6INFLNzwIZbwcNAev-5mUjrJL1)
 - Apr./16 [Colloquim,Video](https://drive.google.com/open?id=1-KeGb9M_2LsDKhWruUXKI8669ThMfUPk)
 - Apr./21: [Procedural Synthesis]
-- Apr./23: [Course Summary]
+- Apr./23: [Course Summary](https://drive.google.com/open?id=1m17kvK6jMO79KcnATtNUmwWO0P8bkSvp)
 - [Presentation of the independently finished project]
 ### Textbook
 - (Not required) Fundamentals of Computer Graphics, 4th Edition December 18, 2015 by A K Peters/CRC Press Textbook - 734 Pages - 541 Color ISBN 9781482229394
